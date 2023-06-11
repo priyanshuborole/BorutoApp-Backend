@@ -17,11 +17,11 @@ To install and run the Boruto Anime App Backend locally, follow these steps:
 Clone the repository:
 
 ```
-git clone https://github.com/your-username/boruto-anime-app-backend.git
+git clone https://github.com/priyanshuborole/BorutoApp-Backend.git
 ```
 Navigate to the project directory:
 ```
-cd boruto-anime-app-backend
+cd BorutoApp-Backend
 ```
 Build the project using Gradle:
 ```
