@@ -5,7 +5,7 @@ This repository contains the backend code for the Boruto Anime App, a web applic
 
 The Boruto Anime App Backend serves as the API server for the Boruto Anime App frontend, providing endpoints to retrieve and manage anime-related data.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/zB6nSu?referralCode=sb0RH2)
+[![Deploy on Railway](https://railway.app/button.svg)](https://docs.railway.app/deploy/deployments)
 
 
 
